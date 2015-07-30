@@ -1,8 +1,4 @@
----
-  tags: kids, forms, ruby, html
-  languages: html, ruby
-  type: resources
----
+
 
 ##Forms resources
 
